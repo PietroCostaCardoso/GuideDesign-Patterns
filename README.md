@@ -86,3 +86,12 @@ São soluções gerais e reutilizáveis para problemas comuns no desenvolvimento
 * **Muito código para atingir um objetivo muito simples.**
 * **Pode trazer otimizações prematuras para seu código.**
 * **Podem atrapalhar ao invés de ajudar.**
+---
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/aca57ec0-d1db-447d-88a2-5f6ab4f0e41d" width="45%" />
+  <img src="https://github.com/user-attachments/assets/4876e71c-df78-40cf-8bdd-0aa9968b2842" width="45%" />
+  <img src="https://github.com/user-attachments/assets/6f6b2d8f-e90b-4895-bf42-c56d7f41e393" width="45%" />
+  <img src="https://github.com/user-attachments/assets/132ed05b-f6be-4909-9bf5-7727d26e1eb4" width="45%" />
+  <img src="https://github.com/user-attachments/assets/4b0b0cf2-e3d4-4f22-abfe-bb4a14ff3699" width="45%" />
+</div>
